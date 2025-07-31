@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution URL](https://your-solution-url.com)
+- Solution URL: [My Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-gxpMUbFQS-)
 - Live Site URL: [Live Site URL](blog-preview-card-six-pi.vercel.app)
 
 ## My process
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### What I learned
 
-In this project I learned that letting go is better than obsessing over it, I don't know how to do some things yet, and that's okay, it doesn't have to be perfect, just good enough.
+I learned that letting go is better than obsessing over getting it to be "perfect", I need to accpet that I don't know how to do some things yet, and that's okay, it doesn't have to be perfect, just good enough.
 
 ### Continued development
 
